@@ -12,7 +12,6 @@ import SearchBar from './components/SearchBar/SearchBar'
 import Posts from './components/Posts/Posts'
 import Post from './components/Posts/Post'
 import PostHeader from './components/Posts/PostHeader'
-import LikeSection from './components/Posts/LikeSection'
 
 // Import the dummyData
 import './App.css';
